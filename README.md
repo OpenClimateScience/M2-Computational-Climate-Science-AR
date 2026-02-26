@@ -1,9 +1,7 @@
 <div dir="rtl" align="right" style="text-align: right; font-family: 'Amiri','Scheherazade New','Noto Naskh Arabic','Arial',sans-serif; line-height: 1.9;">
 
 <p>
-<a href="https://zenodo.org/doi/10.5281/zenodo.13820296">
-<img src="https://zenodo.org/badge/742518754.svg" alt="DOI">
-</a>
+<a href="https://doi.org/10.5281/zenodo.18793064"><img src="https://zenodo.org/badge/1154947565.svg" alt="DOI"></a>
 </p>
 
 <h1>الوحدة M2: علم المناخ الحاسوبي</h1>
